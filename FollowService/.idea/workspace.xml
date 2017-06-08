@@ -228,7 +228,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/twitter_webservice/Rest/RestFollow.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
-              <caret line="31" column="63" lean-forward="true" selection-start-line="31" selection-start-column="63" selection-end-line="31" selection-end-column="63" />
+              <caret line="31" column="63" lean-forward="false" selection-start-line="31" selection-start-column="63" selection-end-line="31" selection-end-column="63" />
               <folding>
                 <element signature="imports" expanded="false" />
               </folding>
@@ -1487,7 +1487,7 @@
       <workItem from="1496858119339" duration="17259000" />
       <workItem from="1496888422082" duration="4136000" />
       <workItem from="1496908309902" duration="345000" />
-      <workItem from="1496909014567" duration="1894000" />
+      <workItem from="1496909014567" duration="2288000" />
     </task>
     <servers />
   </component>
@@ -1524,7 +1524,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="764260000" />
+    <option name="totallyTimeSpent" value="764654000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -1537,6 +1537,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="0" width="2418" height="1311" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -2188,7 +2189,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/twitter_webservice/Rest/RestFollow.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
-          <caret line="31" column="63" lean-forward="true" selection-start-line="31" selection-start-column="63" selection-end-line="31" selection-end-column="63" />
+          <caret line="31" column="63" lean-forward="false" selection-start-line="31" selection-start-column="63" selection-end-line="31" selection-end-column="63" />
           <folding>
             <element signature="imports" expanded="false" />
           </folding>

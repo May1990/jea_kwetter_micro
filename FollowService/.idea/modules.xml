@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:\jea\microservices_1\UserService\ja.iml" filepath="D:\jea\microservices_1\UserService\ja.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kwetter.iml" filepath="$PROJECT_DIR$/kwetter.iml" />
+      <module fileurl="file://D:\jea\microservices_1\UserService\kwetterMij.iml" filepath="D:\jea\microservices_1\UserService\kwetterMij.iml" />
+    </modules>
+  </component>
+</project>
